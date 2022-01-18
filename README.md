@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayujin-dev
-- 👀 I’m interested in React.js
+- 👀 I’m interested in React.js, Next.js, firebase
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me : 00nyj@sookmyung.ac.kr
 
