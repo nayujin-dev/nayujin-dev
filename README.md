@@ -53,7 +53,7 @@
 
 ## About Me
   
-![nayujin-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayujin-dev&show_icons=true&count_private=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayujin-dev&layout=compact&count_private=true&theme=cobalt) 
+![nayujin-dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nayujin-dev&show_icons=true&count_private=true&theme=cobalt) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nayujin-dev&layout=compact&count_private=true&theme=cobalt) 
 </div>
 <!---
 nayujin-dev/nayujin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
