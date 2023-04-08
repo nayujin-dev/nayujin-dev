@@ -19,7 +19,7 @@
 |2022.09 - 2022.10|신한 Together|우리 모임의 발자취, 편리한 정산과 소중한 추억을 위한 앱서비스|Android studio|[Archiving](https://github.com/cwave-org/S-Together) / [News article](http://www.choicenews.co.kr/news/articleView.html?idxno=106137)|
 |2022.09 - 2022.10|나만의 셀렉샵|Spring을 공부하고자 스파르타코딩클럽을 참고하며 진행한 토이 프로젝트|Spring|[Web](http://yujindev.shop) / [Archiving](https://github.com/nayujin-dev/likelion_Server_Spring)|
 |2022.05 - 2022.09|오즈의 제작소|굿즈와 관련된 모든 꿀팁과 제작 후기 작성하기 외주 작업 진행|ReactJS|[Web](https://ozjejakso.com/)|
-|2022.05 - 2022.08|rememB|rememBer your Birthday! 선물취향 밸런스게임, 축하 메세지를 롤링페이퍼로 간직하기|ReactJS, Django|[Web](http://remeb.site/) / [Archiving](https://likelion.notion.site/rememB-dc8199695df245c5bf057d770216c5ea)|
+|2022.05 - 2022.08|rememB|rememBer your Birthday! 선물취향 밸런스게임, 축하 메세지를 롤링페이퍼로 간직하기|ReactJS, Django|[Web](http://remeb.site/) / [Archiving](https://likelion.notion.site/rememB-dc8199695df245c5bf057d770216c5ea) / [Video](https://drive.google.com/drive/folders/1Fak_bh57c6TCeAZvCqwL8_C9f0yrcZXz?usp=sharing)|
 |2022.08.27 - 2022.08.28|여기있대|숙명여대 학생회 주관 '비상용 생리대' 복지사업을 위한, 무상 생리대 위치 및 재고 알림 서비스|ReactJS, Firebase|[Mobile Web](https://nayangna.netlify.app/#/) / [Archiving](https://github.com/Sookmyung-Software-Hackathon/Team10_naYangna)|
 |2022.07.29 - 2022.07.30|피어PEER나다|너 나의 동료가 되어라! 동료찾기 서비스|VanillaJS, Django|[Archiving](https://github.com/HERETHON1)|
 |2022.06.20 - 2022.07.05|하루하나|디지털 소외계층을 위한, 1일1문답을 작성하며 휴대폰에 익숙해지도록 도와주는 서비스|Figma|[Figma Prototype](https://www.figma.com/proto/IM9PLh1xkJtSB12tLZ9Ra0/%EC%B4%88%EA%B8%B0%EB%94%94%EC%9E%90%EC%9D%B8?page-id=0%3A1&node-id=27%3A13&viewport=490%2C42%2C0.09&scaling=scale-down&starting-point-node-id=27%3A13&show-proto-sidebar=1)|
