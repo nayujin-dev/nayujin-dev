@@ -23,7 +23,7 @@
   
 ## Experience
 #### - 2023
-- SOPT 33th Web Part (2023.09 ~ 2024.01) 
+- SOPT 33rd Web Part (2023.09 ~ 2024.01) 
 - Hana Bank Digital Field Internship Excellence Completion (2023.07 ~ 2023.08)
 - LikeLion at Sookmyung Women's University 10th Executive (2023.01 ~ 2023.12) 
 - SamSung SDS Algorithm Course (2023.01)
